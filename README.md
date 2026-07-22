@@ -154,9 +154,9 @@ Successfully reproduced the MaskFusionNet paper on the UBFC-rPPG dataset, implem
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://yourportfolio.com
-- Email: your.email@gmail.com
+- LinkedIn: in/shaheryar-khan-zai-4a17091b3
+-Fiverr: https://www.fiverr.com/s/kL9942o
+- Email: sheheryarn657@gmail.com
 
 ---
 
