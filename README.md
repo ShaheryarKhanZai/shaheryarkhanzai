@@ -37,4 +37,4 @@ Python • PyTorch • OpenCV • YOLO • FastAPI • Docker • Git • SQL �
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/shaheryar-khan-zai-4a17091b3
-- Fiverr: https://fiverr.com/Sheheryar_khanz
+- Fiverr: https://www.fiverr.com/s/kL9942o
