@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shaheryar Khan 👋
 
-<!--
-**ShaheryarKhanZai/shaheryarkhanzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer and Data Science graduate student with hands-on experience delivering production-oriented Machine Learning and Computer Vision solutions for clients worldwide.
 
-Here are some ideas to get you started:
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+- 🔍 Deep Learning
+- ⚡ AI Automation
+- 🐍 Python
+- 🐳 Docker
+- ☁️ Cloud & MLOps (currently learning)
+
+## Featured Projects
+
+- Multimodal RAG Platform
+- Computer Vision Game Automation
+- Industrial Defect Detection
+- Currency Detection & Counting System
+- rPPG Research Replication (MaskFusionNet)
+- ESRGAN Satellite Image Upscaling
+
+## Tech Stack
+
+Python • PyTorch • OpenCV • YOLO • FastAPI • Docker • Git • SQL • NumPy • Pandas • LangChain • Transformers
+
+## Currently Learning
+
+- Advanced RAG
+- Agentic AI
+- Cloud Deployment
+- MLOps
+- Kubernetes
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/shaheryar-khan-zai-4a17091b3
+- Fiverr: https://fiverr.com/Sheheryar_khanz
